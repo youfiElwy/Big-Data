@@ -1,7 +1,7 @@
 Big-Data
 
 
-This repo contains multiple tasksm projects and work on Big-Data concepts and tools.
+This repo contains multiple tasks, projects and work on Big-Data concepts and tools.
 
 - MongoDB
 - Cassandra
