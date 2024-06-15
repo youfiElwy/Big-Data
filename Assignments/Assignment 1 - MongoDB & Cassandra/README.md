@@ -45,11 +45,3 @@ The dataset is divided into two CSV files:
 
 ### Visualizations
 - Display the results of the common payment type, average tip amount, and best pickup locations using creative and efficient visualizations.
-
-## Deliverables
-
-- **Python Code:**
-  - Well-commented and organized Python code implementing the entire workflow.
-  
-- **Report:**
-  - Explanation of each step, method, results, and model performance insights, including visualizations (e.g., Confusion Matrix).
