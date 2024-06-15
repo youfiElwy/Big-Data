@@ -45,3 +45,6 @@ The dataset is divided into two CSV files:
 
 ### Visualizations
 - Display the results of the common payment type, average tip amount, and best pickup locations using creative and efficient visualizations.
+
+### NOTE - DATASET
+- Note that the dataset is way too large to upload.
