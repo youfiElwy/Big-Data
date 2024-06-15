@@ -9,10 +9,6 @@
 ### Overview:
 This assignment focuses on analyzing NYC yellow taxi cab trip data using both MongoDB and Cassandra databases. Students are required to clean and preprocess the dataset, perform data insertion, calculate trip durations and costs, and answer specific analytical queries.
 
-### Deliverables:
-- Implementations in MongoDB and Cassandra.
-- Visualization of results for specific queries.
-
 ---
 
 ## Assignment 2
@@ -36,16 +32,6 @@ Assignment 3 consists of five distinct tasks, each requiring different datasets 
 4. **Task 4:** Income Prediction using LogisticRegression in SparkML.
 5. **Task 5:** Email Spam Classification using RandomForestClassifier in SparkML.
 
-### Deliverables:
-- Implementation of each task in notebooks.
-- Featurization steps where required.
-- Accuracy calculations for classification tasks.
-
 ---
-
-### General Notes:
-- **Submission:** Each assignment requires submission via email in the specified format.
-- **Plagiarism Policy:** Strict adherence to academic integrity guidelines is expected.
-- **Resources:** Links to external resources used in code development should be included.
 
 For detailed requirements and dataset specifics, please refer to the respective assignment folders.
